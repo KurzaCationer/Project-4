@@ -1,0 +1,3 @@
+[submodule "App"]
+	path = App
+	url = https://git.fhict.nl/I432592/semester-4-app.git
